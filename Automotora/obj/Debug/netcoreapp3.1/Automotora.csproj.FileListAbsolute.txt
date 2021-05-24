@@ -1,0 +1,14 @@
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.exe
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.deps.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.runtimeconfig.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.runtimeconfig.dev.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\netcoreapp3.1\Automotora.pdb
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.csprojAssemblyReference.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.AssemblyInfoInputs.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.AssemblyInfo.cs
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.csproj.CoreCompileInputs.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.pdb
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.genruntimeconfig.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\netcoreapp3.1\Automotora.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.exe
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.deps.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.runtimeconfig.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.runtimeconfig.dev.json
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\ref\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\bin\Debug\net5.0\Automotora.pdb
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.csprojAssemblyReference.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.AssemblyInfoInputs.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.AssemblyInfo.cs
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.csproj.CoreCompileInputs.cache
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\ref\Automotora.dll
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.pdb
+C:\Users\zek\source\repos\Automotora\Automotora\obj\Debug\net5.0\Automotora.genruntimeconfig.cache
